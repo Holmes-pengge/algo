@@ -47,5 +47,6 @@ bld/
 .vs/
 
 **/*.idea
+**/*.vscode
 **/*.iml
 **/*out
